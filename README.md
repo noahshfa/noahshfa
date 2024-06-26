@@ -2,4 +2,4 @@
 - 👀 I’m a Data Analyst looking to transition into a Data Scientist or more advanced Data Analyst role
 - 🌱 I’m currently learning Python and advanced SQL
 - 📫 How to reach me: feel free to reach out or connect on linkedin: https://www.linkedin.com/in/noahshahidi-faivre/
-- ⚡ Fun fact: I like cooking, cycling, photography, and playing Cyberpunk 2077
+- ⚡ Fun fact: I like cooking, cycling, photography, and playing open-world games
